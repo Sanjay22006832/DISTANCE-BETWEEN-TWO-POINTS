@@ -31,7 +31,8 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![OUTPUT](Exp1.png)
+![OUTPUT](Exp1.png)![Exp1](https://user-images.githubusercontent.com/119830477/229994842-bd487ee7-ec28-4a12-93f1-6ff9b54772ab.png)
+
 
 
 ### RESULT:
